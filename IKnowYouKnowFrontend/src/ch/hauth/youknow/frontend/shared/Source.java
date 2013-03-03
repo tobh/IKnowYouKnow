@@ -1,0 +1,11 @@
+package ch.hauth.youknow.frontend.shared;
+
+
+public enum Source {
+	MESSAGES,
+	AUTHORS,
+	THREADS,
+	MESSAGES_WITHOUT_THREAD_STARTERS,
+	THREADS_WITHOUT_THREAD_STARTERS,
+	AUTHORS_WITHOUT_THREAD_STARTERS;
+}

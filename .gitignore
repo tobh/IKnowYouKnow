@@ -1,0 +1,11 @@
+.metadata
+
+IKnowYouKnowIndex/bin
+
+IKnowYouKnowFrontend/war/WEB-INF/classes
+IKnowYouKnowFrontend/war/WEB-INF/deploy
+IKnowYouKnowFrontend/war/youknow
+IKnowYouKnowFrontend/war/segments*
+IKnowYouKnowFrontend/war/write.lock
+IKnowYouKnowFrontend/.gwt
+
